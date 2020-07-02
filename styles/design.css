@@ -1,0 +1,40 @@
+h1 {
+    color:red;
+}
+p
+{
+    color:blue;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+ul {
+    font-size: 25px;
+    color : red;
+}
+li {
+    color: green;
+    font-size: 20px;
+}
+#head
+{
+    color : blue;
+    font-size: 20px;
+   
+}
+#days {
+    color : red;
+}
+.foot{
+    color: orange;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+}
